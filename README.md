@@ -4,6 +4,7 @@ This repo is created for GitHub Copilot Adoption Program, specifically for DevOp
 # First Activity: Create your Workspace and Project with VS Code and Terraform
 
 - VS Code and Terraform
+- Terraform Extension
 
 ## Objectives
 
